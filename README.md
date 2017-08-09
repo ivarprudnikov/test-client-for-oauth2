@@ -23,4 +23,5 @@ Need a client application which tests my OAuth2 provider implementation, or any 
   - **paths.authFlowStart** this path will start authentication sequence (eg: redirect to get authorization code)
   - **paths.authFlowCallback** callback path finishes OAuth flow and renders token. Also used to build `redirect_uri`
 - start app `node index`
+- open `baseUrl` and follow `Get auth token` link to initiate auth flow
 
