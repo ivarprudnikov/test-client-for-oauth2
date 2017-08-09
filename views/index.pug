@@ -1,0 +1,10 @@
+html
+  head
+    title Test your Oauth2 provider
+  body
+    h1 Test your Oauth2 provider
+
+    h2 Your configuration
+    pre #{ JSON.stringify(cfg, null, 2) }
+
+    a(href=cfg.paths.authFlowStart) Get auth token

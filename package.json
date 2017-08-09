@@ -1,0 +1,16 @@
+{
+  "name": "test-client-for-oauth2",
+  "version": "1.0.0",
+  "description": "OAuth2 client server testing OAuth providers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "client-oauth2": "^4.1.0",
+    "express": "^4.15.4",
+    "pug": "^2.0.0-rc.3"
+  }
+}
