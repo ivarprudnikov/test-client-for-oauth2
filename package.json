@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "client-oauth2": "^4.2.5",
+    "client-oauth2": "^4.3.0",
     "express": "^4.17.1",
     "pug": "^2.0.4"
   }
